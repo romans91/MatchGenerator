@@ -1,0 +1,17 @@
+{
+  "name": "teems",
+  "version": "1.0.0",
+  "description": "Match Generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "n-readlines": "^1.0.1",
+    "pleasejs": "^0.4.2"
+  }
+}
